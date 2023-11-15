@@ -9,10 +9,20 @@ cover-img: assets/img/bg2.jpg
 **Location:** [Kotak IISc AI-ML Centre](http://kiac.iisc.ac.in ) - Room 102, CDS Department, IISc  
 [View on Map](https://maps.app.goo.gl/nmzxTuTwRXZ1veuV7)
 
-## Introduction
 The Adobe-IISc GenAI Workshop brings together faculties from IISc and researchers from Adobe Research for a day-long session. The workshop aims to understand ongoing research from each other and explore possible avenues for collaboration.
 
-_PhD Students: We have openings for summer internships! Talk to us at the workshop to know more!_
+_PhD and Mtech (Research) students: We have openings for summer internships! Talk to us at the workshop to know more!_
+
+## Call for Posters
+
+We invite IISc students who have published research work in venues relevant to the theme of the workshop to present their work in a poster session. This is a great opportunity to showcase your findings and engage in discussions with peers and experts in the field.
+
+If you are interested in presenting a poster, please fill out the submission form with your details and information about your research work.
+
+[Submit your poster details](https://forms.office.com/Pages/ResponsePage.aspx?id=l80Vb6f240Gyxa1Bk5dkdo5tvGoZ4OFLnHETYHkpxOFUOFZNVlREMUcyS040M0dBOUgxRENZMDFUOS4u)
+
+*Please note that the call for posters is open only to IISc students.*
+
 
 ## Agenda
 
@@ -24,7 +34,7 @@ _PhD Students: We have openings for summer internships! Talk to us at the worksh
 | **10:00 – 10:20**| -                               | Prof. Venkatesh Babu                 |
 | **10:20 – 10:40**| -                               | Prof. Rajiv Soundararajan            |
 | **10:40 – 11:00**| -                               | Prof. Anirban Chakraborty            |
-| **11:00 – 11:15**| Computer Vision                 | Adobe Research (Srikrishna, Joseph)  |
+| **11:00 – 11:15**| Computer Vision                 | Adobe Research                       |
 
 ### Tea Break
 
@@ -37,7 +47,7 @@ _PhD Students: We have openings for summer internships! Talk to us at the worksh
 | **11:30 – 11:50**| -                               | Prof. Chiranjib Bhattacharyya        |
 | **11:50 – 12:10**| -                               | Prof. Siddharth Barman               |
 | **12:10 – 12:30**| -                               | Prof. Prathosh A. P.                 |
-| **12:30 – 12:45**| ML + Algorithms                 | Adobe Research (Subrata, Koyel, Sunav, Ramasuri) |
+| **12:30 – 12:45**| ML + Algorithms                 | Adobe Research                       |
 
 ### Lunch
 
@@ -49,10 +59,9 @@ _PhD Students: We have openings for summer internships! Talk to us at the worksh
 |-----------------|----------------------------------|--------------------------------------|
 | **2:00 – 2:20** | -                                | Prof. Danish Pruthi                  |
 | **2:20 – 2:40** | -                                | Prof. Soma Biswas                    |
-| **2:40 – 2:55** | Language + Vision                | Adobe Research (Koustava, Sambaran, Aparna, Apoorv) |
-| **2:55 – 3:15** | -                                | Prof. Arkaprava Basu                 |
+| **2:40 – 3:10** | Language and Vision              | Adobe Research                       |
 
-### Poster Session + High Tea + Networking
+### Poster Session
 
 **3:15 – 4:00** Poster Session + High Tea + Networking
 
