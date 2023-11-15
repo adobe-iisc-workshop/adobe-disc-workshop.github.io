@@ -1,12 +1,12 @@
 ---
 layout: page
 title: Adobe-IISc GenAI Workshop
-subtitle: Nov 20, 2023 - Room 102, CDS Department, IISc
+subtitle: Nov 20, 2023 - Kotak-IISC AI-ML Centre
 cover-img: assets/img/bg2.jpg
 ---
 
 **Date:** Nov 20, 2023  
-**Location:** Room 102, CDS Department, IISc  
+**Location:** [Kotak IISc AI-ML Centre](http://kiac.iisc.ac.in ) - Room 102, CDS Department, IISc  
 [View on Map](https://maps.app.goo.gl/nmzxTuTwRXZ1veuV7)
 
 ## Introduction
