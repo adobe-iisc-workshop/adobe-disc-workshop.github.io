@@ -11,7 +11,7 @@ cover-img: assets/img/bg2.jpg
 
 The Adobe-IISc GenAI Workshop brings together faculties from IISc and researchers from Adobe Research for a day-long session. The workshop aims to understand ongoing research from each other and explore possible avenues for collaboration.
 
-_PhD and Mtech (Research) students: We have openings for summer internships! Talk to us at the workshop to know more!_
+_PhD and Mtech (Research) students: We have [openings for summer internships](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Research-PhD-Intern_R142469)! Talk to us at the workshop to know more!_
 
 ## Call for Posters
 
