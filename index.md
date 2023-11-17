@@ -32,7 +32,7 @@ If you are interested in presenting a poster, please fill out the submission for
 |-----------------|----------------------------------|--------------------------------------|
 | **9:30 – 10:00**| Adobe Research Lab Overview      | Nanda, Shiv, Balaji                  |
 | **10:00 – 10:20**| -                               | Prof. Venkatesh Babu                 |
-| **10:20 – 10:40**| -                               | Prof. Rajiv Soundararajan            |
+| **10:20 – 10:40**| Learning Quality Representations for User Generated Content and Beyond | Prof. Rajiv Soundararajan            |
 | **10:40 – 11:00**| -                               | Prof. Anirban Chakraborty            |
 | **11:00 – 11:15**| Computer Vision                 | Adobe Research                       |
 
@@ -45,8 +45,8 @@ If you are interested in presenting a poster, please fill out the submission for
 | Time            | Topic                            | Speaker(s)                           |
 |-----------------|----------------------------------|--------------------------------------|
 | **11:30 – 11:50**| -                               | Prof. Chiranjib Bhattacharyya        |
-| **11:50 – 12:10**| -                               | Prof. Siddharth Barman               |
-| **12:10 – 12:30**| -                               | Prof. Prathosh A. P.                 |
+| **11:50 – 12:10**| Collective Welfare as a Metric in Algorithmic Decision-Making | Prof. Siddharth Barman               |
+| **12:10 – 12:30**| Zero/Few shot Generative modelling     | Prof. Prathosh A. P.                 |
 | **12:30 – 12:45**| ML + Algorithms                 | Adobe Research                       |
 
 ### Lunch
