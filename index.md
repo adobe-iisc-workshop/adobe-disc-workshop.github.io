@@ -1,15 +1,14 @@
 ---
 layout: page
-title: Adobe-IISc GenAI Workshop
-subtitle: Nov 20, 2023 - Kotak-IISC AI-ML Centre
+title: Adobe-IISc Research Workshop
+subtitle: Nov 28, 2024
 cover-img: assets/img/bg2.jpg
 ---
 
-**Date:** Nov 20, 2023  
-**Location:** [Kotak IISc AI-ML Centre](http://kiac.iisc.ac.in ) - Room 102, CDS Department, IISc  
-[View on Map](https://maps.app.goo.gl/nmzxTuTwRXZ1veuV7)
+**Date:** Nov 28, 2024  
+**Location:** CSA Room No. 104: 
 
-The Adobe-IISc GenAI Workshop brings together faculties from IISc and researchers from Adobe Research for a day-long session. The workshop aims to understand ongoing research from each other and explore possible avenues for collaboration.
+The Adobe-IISc Research Workshop brings together faculties from IISc and researchers from Adobe Research for a day-long session. The workshop aims to understand ongoing research from each other and explore possible avenues for collaboration.
 
 _PhD and Mtech (Research) students: We have [openings for summer internships](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Research-PhD-Intern_R142469)! Talk to us at the workshop to know more!_
 
@@ -30,49 +29,51 @@ If you are interested in presenting a poster, please fill out the submission for
 
 | Time            | Topic                            | Speaker(s)                           |
 |-----------------|----------------------------------|--------------------------------------|
-| **9:30 – 10:00**| Adobe Research Lab Overview      | Nanda, Shiv, Balaji                  |
-| **10:00 – 10:20**| -                               | Prof. Venkatesh Babu                 |
-| **10:20 – 10:40**| Learning Quality Representations for User Generated Content and Beyond | Prof. Rajiv Soundararajan            |
-| **10:40 – 11:00**| -                               | Prof. Anirban Chakraborty            |
-| **11:00 – 11:15**| Computer Vision                 | Adobe Research                       |
+| **8:30 – 9:00**| Breakfast                         |                                      |
+| **9:30 – 10:00**| Opening Remarks                  | Nanda & Prof. Narahari               |
+| **9:30 –  9:55**| -                                | Prof. Jayant Haritsa                  |
+| **9:55 – 10:15**| -                               | Adobe Talk (Data Group)                |
 
 ### Tea Break
 
-**11:15 – 11:30** Tea Break
+**10:15 – 10:30** Tea Break
+
 
 ### Session 2
 
 | Time            | Topic                            | Speaker(s)                           |
-|-----------------|----------------------------------|--------------------------------------|
-| **11:30 – 11:50**| -                               | Prof. Chiranjib Bhattacharyya        |
-| **11:50 – 12:10**| Collective Welfare as a Metric in Algorithmic Decision-Making | Prof. Siddharth Barman               |
-| **12:10 – 12:30**| Zero/Few shot Generative modelling     | Prof. Prathosh A. P.                 |
-| **12:30 – 12:45**| ML + Algorithms                 | Adobe Research                       |
+|-----------------|----------------------------------|--------------------------------------| 
+| **10:30 – 10:55**|   -                             | Prof. Venkatesh Babu            |
+| **10:55 – 11:20**|   -                             | Prof. Anant Raj            |
+| **11:20 – 11:40**| Computer Vision                 | Adobe Talk (CC)                       |
+| **11:40 – 12:00**| Document Experinces             | Adobe Talk (DE)                       |
+
 
 ### Lunch
 
-**12:45 – 2:00** Lunch Break
+**12:00 – 1:00** Lunch Break
+
 
 ### Session 3
 
 | Time            | Topic                            | Speaker(s)                           |
 |-----------------|----------------------------------|--------------------------------------|
-| **2:00 – 2:20** | -                                | Prof. Danish Pruthi                  |
-| **2:20 – 2:40** | -                                | Prof. Soma Biswas                    |
-| **2:40 – 3:10** | Language and Vision              | Adobe Research                       |
+| **1:00 – 1:45**| LLMs for Building Fair, Inclusive and Responsible AI Systems                              | Panel Discussion        |
+| **1:45 – 2:15**| Lightning Talks | Students             |
+| **2:15 – 3:00**| Poster Session + Tea    | Students                 |
+| **12:30 – 12:45**| Ask Me Anything                | Nanda/Shiv/Balaji                       |
 
-### Poster Session
 
-**3:15 – 4:00** Poster Session + High Tea + Networking
+
 
 
 ## Meet Our Lab
 Discover more about our lab at [Adobe Research Careers Bangalore](https://research.adobe.com/careers/bangalore/).
 
 ## Contact Us
-For more information or inquiries about the Adobe-IISc GenAI Workshop, feel free to reach out to any of our organizers:
+For more information or inquiries about the Adobe-IISc Research Workshop, feel free to reach out to any of our organizers:
 
-- Koyel Mukherjee: [komukher@adobe.com](mailto:komukher@adobe.com)
-- Apoorv Saxena: [apoorvs@adobe.com](mailto:apoorvs@adobe.com)
-- Balaji Vasan Srinivasan: [balsrini@adobe.com](mailto:balsrini@adobe.com)
-- Harsh Rangwani: [harshr@iisc.ac.in](mailto:harshr@iisc.ac.in)
+- Harsh Rangwani: [hrangwani@adobe.com](mailto:hrangwani@adobe,com)
+- Sambaran Bandhyopadhyay [sambaranb@adobe.com](mailto:sambaranb@adobe.com)
+- Ramasuri Narayanam [rnarayanam@adobe.com](rnarayanam@adobe.com)
+

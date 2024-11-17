@@ -1,15 +1,15 @@
 ---
 layout: page
-title: Adobe-IISc Research Workshop
-subtitle: Nov 28, 2024
+title: Adobe-IISc GenAI Workshop
+subtitle: Nov 20, 2023 - Kotak-IISC AI-ML Centre
 cover-img: assets/img/bg2.jpg
 ---
 
-**Date:** Nov 28, 2024  
+**Date:** Nov 20, 2023  
 **Location:** [Kotak IISc AI-ML Centre](http://kiac.iisc.ac.in ) - Room 102, CDS Department, IISc  
 [View on Map](https://maps.app.goo.gl/nmzxTuTwRXZ1veuV7)
 
-The Adobe-IISc Research Workshop brings together faculties from IISc and researchers from Adobe Research for a day-long session. The workshop aims to understand ongoing research from each other and explore possible avenues for collaboration.
+The Adobe-IISc GenAI Workshop brings together faculties from IISc and researchers from Adobe Research for a day-long session. The workshop aims to understand ongoing research from each other and explore possible avenues for collaboration.
 
 _PhD and Mtech (Research) students: We have [openings for summer internships](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Research-PhD-Intern_R142469)! Talk to us at the workshop to know more!_
 
@@ -70,10 +70,9 @@ If you are interested in presenting a poster, please fill out the submission for
 Discover more about our lab at [Adobe Research Careers Bangalore](https://research.adobe.com/careers/bangalore/).
 
 ## Contact Us
-For more information or inquiries about the Adobe-IISc Research Workshop, feel free to reach out to any of our organizers:
+For more information or inquiries about the Adobe-IISc GenAI Workshop, feel free to reach out to any of our organizers:
 
-- Harsh Rangwani: [hrangwani@adobe.com](mailto:hrangwani@adobe,com)
-- Sambaran Bandhyopadhyay [sambaranb@adobe.com](mailto:sambaranb@adobe.com)
-- Ramasuri Narayanam [rnarayanam@adobe.com](rnarayanam@adobe.com)
-- Anant Raj
-- R. Venkatesh Babu
+- Koyel Mukherjee: [komukher@adobe.com](mailto:komukher@adobe.com)
+- Apoorv Saxena: [apoorvs@adobe.com](mailto:apoorvs@adobe.com)
+- Balaji Vasan Srinivasan: [balsrini@adobe.com](mailto:balsrini@adobe.com)
+- Harsh Rangwani: [harshr@iisc.ac.in](mailto:harshr@iisc.ac.in)
