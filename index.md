@@ -79,6 +79,8 @@ In case you are a PhD/MTech(Resarch) student who wants to participate in the wor
 ## Meet Our Lab
 Discover more about our lab at [Adobe Research Careers Bangalore](https://research.adobe.com/careers/bangalore/).
 
+2023 [Workshop](https://adobe-genai-workshop.github.io/)
+
 ## Contact Us
 For more information or inquiries about the Adobe-IISc Research Workshop, feel free to reach out to any of our organizers:
 
