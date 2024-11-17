@@ -70,7 +70,7 @@ In case you are a PhD/MTech(Resarch) student who wants to participate in the wor
 | **1:00 – 1:45**| LLMs for Building Fair, Inclusive and Responsible AI Systems                              | Panel Discussion        |
 | **1:45 – 2:15**| Lightning Talks | Students             |
 | **2:15 – 3:00**| Poster Session + Tea    | Students                 |
-| **12:30 – 12:45**| Ask Me Anything                | Nanda/Shiv/Balaji                       |
+| **3:00 – 3:30**| Ask Me Anything                | Nanda/Shiv/Balaji                       |
 
 
 
