@@ -16,7 +16,7 @@ _PhD and Mtech (Research) students: We have [openings for summer internships]()!
 
 We invite IISc students who have published research work in venues relevant to the theme of the workshop to present their work in a poster session. This is a great opportunity to showcase your findings and engage in discussions with peers and experts in the field.
 
-If you are interested in presenting a poster, please fill out the submission form with your details and information about your research work.
+If you are interested in presenting a poster, please fill out the submission form with your details and information about your research work. We have exciting awards of gift cards worth Rs. 25k for the winner and Rs. 15k for the runners-up.
 
 We also have some slots for 5 minute lightning talks from students, please fill that option in case you want to present.
 
