@@ -53,9 +53,9 @@ In case you are a PhD/MTech(Resarch) student who wants to participate in the wor
 | Time            | Topic                            | Speaker(s)                           |
 |-----------------|----------------------------------|--------------------------------------| 
 | **10:30 – 10:50**|   Efficient Systems for AI Assistant | Adobe Talk (Shiv)                 |
-| **10:55 – 11:20**|   -                             | Prof. Anant Raj                      |
-| **11:20 – 11:40**|Creative, Explainable and Reliable AI Assistants for Documents and Beyond|    Adobe Talk (Koyel/Apoorv/Aparna)|
-| **11:40 – 12:00**| -                               |     Prof. Venkatesh Babu             |
+| **10:50 – 11:15**|   -                             | Prof. Anant Raj                      |
+| **11:15 – 11:35**|Creative, Explainable and Reliable AI Assistants for Documents and Beyond|    Adobe Talk (Koyel/Apoorv/Aparna)|
+| **11:35 – 12:00**| -                               |     Prof. Venkatesh Babu             |
 
 
 ### Lunch
