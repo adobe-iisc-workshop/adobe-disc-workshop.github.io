@@ -41,7 +41,7 @@ In case you are a PhD/MTech(Resarch) student who wants to participate in the wor
 | **8:30 – 9:00**| Breakfast                         |                                      |
 | **9:30 – 10:00**| Opening Remarks                  | Nanda & Prof. Narahari               |
 | **9:30 –  9:55**| -                                | Prof. Jayant Haritsa                  |
-| **9:55 – 10:15**| -                               | Adobe Talk (Data Group)                |
+| **9:55 – 10:15**| From Constraints to Creativity: Controlled Workflows in Generative AI | Adobe Talk (Balaji)                |
 
 ### Tea Break
 
@@ -52,10 +52,10 @@ In case you are a PhD/MTech(Resarch) student who wants to participate in the wor
 
 | Time            | Topic                            | Speaker(s)                           |
 |-----------------|----------------------------------|--------------------------------------| 
-| **10:30 – 10:55**|   -                             | Prof. Venkatesh Babu            |
-| **10:55 – 11:20**|   -                             | Prof. Anant Raj            |
-| **11:20 – 11:40**| Computer Vision                 | Adobe Talk (CC)                       |
-| **11:40 – 12:00**| Document Experinces             | Adobe Talk (DE)                       |
+| **10:30 – 10:50**|   Efficient Systems for AI Assistant | Adobe Talk (Shiv)                 |
+| **10:55 – 11:20**|   -                             | Prof. Anant Raj                      |
+| **11:20 – 11:40**|Creative, Explainable and Reliable AI Assistants for Documents and Beyond|    Adobe Talk (Koyel/Apoorv/Aparna)|
+| **11:40 – 12:00**| -                               |     Prof. Venkatesh Babu             |
 
 
 ### Lunch
